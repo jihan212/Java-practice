@@ -11,11 +11,11 @@ class math {
 
         // Subtraction math
 
-        int diff1 = 200;
-        int diff2 = 50;
-        int diff3 = diff1 - diff2;
+        int sub1 = 200;
+        int sub2 = 50;
+        int sub3 = sub1 - sub2;
 
-        System.out.println("Result of Subtraction is " + diff3);
+        System.out.println("Result of Subtraction is " + sub3);
 
         // Multiplication math
 
